@@ -83,9 +83,10 @@
   <ItemGroup>
     <Compile Include="09062022_Assignment1.cs" />
     <Compile Include="Class1.cs" />
+    <Compile Include="ReadThroughListOfElements.cs" />
     <Compile Include="09062022_Assignment2.cs" />
-    <Compile Include="Class2.cs" />
     <Compile Include="09062022_Assignment3.cs" />
+    <Compile Include="Class19.cs" />
     <Compile Include="Day16Class.cs" />
     <Compile Include="Extensions.cs" />
     <Compile Include="Find Element and Elements.cs" />

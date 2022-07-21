@@ -16,5 +16,12 @@ namespace Selenium_Basics
             IJavaScriptExecutor js1 = (IJavaScriptExecutor)idriver;
             js1.ExecuteScript(script1, element);
         }
+
+        public int GetRandom(int meetingindex)
+        {
+            Random rnd = new Random();
+            return rnd.Next(meetingindex);
+        }
+
     }
 }
