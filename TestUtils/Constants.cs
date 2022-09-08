@@ -4,12 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DataDrivenHybridFramework
+namespace DataDrivenHybridFramework.TestUtils
 {
-    class Program
+    public class Constants
     {
-        static void Main(string[] args)
-        {
-        }
+        public const int DEFAULT_TIMEOUT = 30;
     }
 }
